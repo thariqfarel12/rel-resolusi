@@ -4,3 +4,4 @@ Laravel
 - Buat Controller
 - Buat Views
 - Setting Routes
+- Tes via Local
