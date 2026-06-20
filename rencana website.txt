@@ -1,0 +1,6 @@
+Laravel
+- Buat Migration
+- Buat Middleware
+- Buat Controller
+- Buat Views
+- Setting Routes
