@@ -5,3 +5,4 @@ Laravel
 - Buat Views
 - Setting Routes
 - Tes via Local
+- Deploy
