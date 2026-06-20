@@ -1,5 +1,6 @@
 REL Resolusi
 - Saya ingin konsisten belajar pemrograman
 - Membuat website untuk mengelola server
-- Membuat website untuk teman
-- Membuat server dari samsung dex
+- Membuat website untuk teman bernama MathCloth
+- Membuat server dari Samsung Dex
+- Membuat kernel hp sendiri yang mengharuskan belajar bahasa C
